@@ -82,6 +82,6 @@ Then use {{timestamp}} for passing timestamp to API
 
 ## Contact
 
-If you discover any security related issues, please email [abhishekgupta07@yahoo.com](mailto:abhishekgupta07@yahoo.com).
+If you discover any issues, please email [abhishekgupta07@yahoo.com](mailto:abhishekgupta07@yahoo.com).
 
 
